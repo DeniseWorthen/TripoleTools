@@ -1,0 +1,9 @@
+[submodule "CICE5_gridgen"]
+	path = CICE5_gridgen
+	url = https://github.com/DeniseWorthen/CICE5_gridgen.git
+[submodule "WeightGen"]
+	path = WeightGen
+	url = https://github.com/DeniseWorthen/WeightGen.git
+[submodule "Post"]
+	path = Post
+	url = https://github.com/DeniseWorthen/Post.git
