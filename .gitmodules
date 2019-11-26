@@ -7,3 +7,6 @@
 [submodule "Post"]
 	path = Post
 	url = https://github.com/DeniseWorthen/Post.git
+[submodule "CICE_ICgen"]
+	path = CICE_ICgen
+	url = https://github.com/DeniseWorthen/CICE_ICgen.git
