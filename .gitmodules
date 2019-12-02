@@ -10,3 +10,6 @@
 [submodule "CICE5_ICgen"]
 	path = CICE5_ICgen
 	url = https://github.com/DeniseWorthen/CICE5_ICgen.git
+[submodule "MOM6_ICgen"]
+	path = MOM6_ICgen
+	url = https://github.com/DeniseWorthen/MOM6_ICgen.git
