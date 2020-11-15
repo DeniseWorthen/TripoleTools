@@ -13,3 +13,6 @@
 [submodule "MOM6_ICgen"]
 	path = MOM6_ICgen
 	url = https://github.com/DeniseWorthen/MOM6_ICgen.git
+[submodule "GridGen"]
+	path = GridGen
+	url = https://github.com/DeniseWorthen/GridGen.git
